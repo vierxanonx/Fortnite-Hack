@@ -35,12 +35,10 @@ float HeadshotMinDistance = 3000.0f;
 float fieldOfView = 3.0f;
 float MaxAimbotDistance = 10000.0f;
 
-#define AUTOFIRE_TOGGLE_KEY VK_XBUTTON1
-#define AIMBOT_KEY VK_XBUTTON2
+#define AUTOFIRE_TOGGLE_KEY VK_F5
+#define AIMBOT_KEY VK_RBUTTON
 #define INSTANT_RELOAD_KEY VK_F6
 #define NOSPREAD_KEY VK_F7
-#define NOSPREAD_KEY VK_F6
-#define INSTANT_RELOAD_KEY VK_F7
 #define CHAMS_KEY VK_F8
 #define ESP_KEY VK_F9
 #define EXTENDED_ESP_KEY VK_NUMPAD1
